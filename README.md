@@ -2,6 +2,7 @@
 <h3 align="center">A Self-Taught developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenialxerus-ac&label=Profile%20views&color=0e75b6&style=flat" alt="xenialxerus-ac" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Astral Craft Network](https://astral-craft.tech/)
 
